@@ -1,0 +1,42 @@
+# nasa recent discoveries
+
+## planetary discoveries
+
+**discovery of water on mars**
+nasa's curiosity rover has found evidence of ancient water on mars, indicating that the planet could have supported microbial life in the past. refer to this link for more information: https://www.nasa.gov/mission_pages/msl/index.html
+
+**detection of organic molecules on enceladus**
+nasa's cassini spacecraft discovered complex organic molecules erupting from saturn's moon enceladus, suggesting the possibility of life beneath its icy surface. refer to this link for more information: https://solarsystem.nasa.gov/missions/cassini/overview/
+
+## astronomical events
+
+**first image of a black hole**
+in a groundbreaking achievement, nasa contributed to the first-ever image of a black hole, located in the galaxy m87. this discovery provided concrete visual evidence of black holes. refer to this link for more information: https://www.nasa.gov/mission_pages/chandra/news/black-hole-image-m87.html
+**detection of gravitational waves**
+nasa's ligo observatory detected gravitational waves, ripples in spacetime caused by colliding black holes, confirming a key prediction of einstein's theory of general relativity. refer to this link for more information: https://www.nasa.gov/feature/jpl/nasa-s-dawn-ceres-activity-mystery
+
+## technological advances
+
+**james webb space telescope**
+nasa's james webb space telescope (jwst) is the most powerful space telescope ever built, capable of observing distant galaxies, stars, and planets in unprecedented detail. refer to this link for more information: https://www.jwst.nasa.gov/
+
+**mars helicopter ingenuity**
+nasa successfully flew the first-ever helicopter, ingenuity, on mars. this technological feat opens new possibilities for aerial exploration on other planets. 
+refer to this link for more information: https://mars.nasa.gov/technology/helicopter/
+
+## mission updates
+
+**artemis i mission**
+nasa's artemis i mission is preparing to return humans to the moon, with a goal of landing the first woman and the next man on the lunar surface by 2024. 
+refer to this link for more information: https://www.nasa.gov/artemis-1
+
+**perseverance rover's search for life**
+nasa's perseverance rover is currently exploring mars, searching for signs of ancient life and collecting samples for future return to earth. 
+refer to this link for more information: https://mars.nasa.gov/mars2020/
+
+# general information
+
+if you want to explore more about nasa's ongoing missions, recent discoveries, and other astronomical events, please visit the following links:
+- nasa homepage: https://www.nasa.gov/
+- nasa science: https://science.nasa.gov/
+- nasa missions: https://www.nasa.gov/missions/
